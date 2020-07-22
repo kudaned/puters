@@ -1,5 +1,3 @@
-## WIP
-
 #### About
 Small ruby utility which gives you EC2 console view from your command line so you don't have to switch from your workstation to browser.
 Extremely useful if you have a lot of servers.
